@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/clos-consultancy/gcp-cloud-build/issues"
   },
-  "homepage": "https://github.com/clos-consultancy/gcp-cloud-build#readme"
+  "homepage": "https://github.com/clos-consultancy/gcp-cloud-build#readme",
+  "devDependencies": {
+    "jest": "^23.5.0"
+  }
 }
